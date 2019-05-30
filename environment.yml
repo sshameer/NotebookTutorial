@@ -6,5 +6,5 @@ dependencies:
   - pip:
     - pandas
     - statsmodels
-    - scipy=1.2.0
+    - scipy==1.2.0
   - matplotlib
