@@ -1,10 +1,10 @@
 name: example-environment
 dependencies:
   - python
-  - numpy
   - pip
   - pip:
     - pandas
     - statsmodels
     - scipy==1.2.0
-  - matplotlib
+    - numpy
+    - matplotlib
